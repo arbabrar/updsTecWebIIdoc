@@ -1,0 +1,20 @@
+
+
+
+Pasos Git 
+username arbabrar
+email arbabrar@gmail.com
+
+****************************************************
+echo "# updsTecWebIIdoc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:arbabrar/updsTecWebIIdoc.git
+git push -u origin main
+
+git config  --global user.email "arbabrar@gmail.com"
+git config  --global user.username "arbabrar"
+
+iniciar la carpeta dentro de 
